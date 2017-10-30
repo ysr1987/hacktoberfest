@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Yatindra](https://github.com/ysr1987)
+- Place: Yatindra Singh, Hyderabad ,India
+- Bio: Learner, 
+- GitHub: [ysr1987](https://github.com/ysr1987)
